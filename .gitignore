@@ -1,2 +1,3 @@
+.vscode
 ops/data
-services/traffic-generator/venv
+services/venv

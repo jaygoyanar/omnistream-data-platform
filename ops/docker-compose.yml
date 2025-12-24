@@ -6,7 +6,7 @@ networks:
 
 services:
   postgres:
-    image: postgres:18
+    image: postgres:15
     container_name: omni-postgres
     networks:
       - omni-net
